@@ -1,4 +1,4 @@
-# ASM_Poster
+# ASM 2025 Poster
 ## American Society of Microbiology 2025 Poster References
 
 - **metaSPAdes (metagenomic assembler)**  
